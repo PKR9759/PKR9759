@@ -3,10 +3,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/Nishant85111121" target="blank"><img
-            src="https://img.shields.io/twitter/follow/Nishant85111121?logo=twitter&style=for-the-badge"
-            alt="Nishant85111121" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant5789&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkr9759&label=Profile%20views&color=0e75b6&style=flat"
         alt="Nishant5789" /> </p>
 
 - 🔭 I’m currently working on **to upgrad my skills.**
@@ -26,9 +23,6 @@
     <a href="https://www.linkedin.com/in/nishant-bhandari-193a83201/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Kuldip Rusangbhai Parmar" height="30" width="40" /></a>
-    <a href="https://instagram.com/Nishant1399" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="uldip parmar codechef" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/kuldipr974" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushi_0508" height="30"
             width="40" /></a>
