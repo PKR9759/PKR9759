@@ -18,26 +18,23 @@
 - 👨‍💻 All of my projects are available at [My Personal Portfolio Website](https://portfolio2-five-lilac.vercel.app/)
 
 
-- 📫 How to reach me **nishantbhandari218@gmail.com**
+- 📫 How to reach me **kuldiprparmar9759@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/Nishant85111121" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="rushig_tweets" height="30" width="40" /></a>
+    
     <a href="https://www.linkedin.com/in/nishant-bhandari-193a83201/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rushi gandhi" height="30" width="40" /></a>
+            alt="Kuldip Rusangbhai Parmar" height="30" width="40" /></a>
     <a href="https://instagram.com/Nishant1399" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="rushi_0508" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/nishant_124" target="blank"><img align="center"
+            alt="uldip parmar codechef" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/kuldipr974" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushi_0508" height="30"
             width="40" /></a>
-    <!-- <a href="https://codeforces.com/profile/rushi_0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rushi_0508" height="30" width="40" /></a> -->
-    <a href="https://leetcode.com/Nishant1399/" target="blank"><img align="center"
+    <a href="https://leetcode.com/pkr9759/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="rushigandhi14" height="30" width="40" /></a>
+            alt="kuldip parmar leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -82,10 +79,10 @@
             width="40" height="40" /> </a> </p>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant5789&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=pkr9759&show_icons=true&locale=en&layout=compact"
         alt="Nishant5789" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant5789&show_icons=true&locale=en"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pkr9759&show_icons=true&locale=en"
         alt="Nishant5789" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant5789&" alt="Nishant5789" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkr9759&" alt="Nishant5789" /></p>
